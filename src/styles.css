@@ -116,6 +116,7 @@ fieldset input {
   padding: 0.3em;
   width: 70%;
   align-self: center;
+  outline: none;
 }
 
 fieldset button {
